@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-js",
+  "version": "1.0.0",
+  "description": "algorithms write in javascript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive > test-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestattacked/algorithms-js.git"
+  },
+  "author": "nestattacked",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestattacked/algorithms-js/issues"
+  },
+  "homepage": "https://github.com/nestattacked/algorithms-js#readme",
+  "dependencies": {}
+}
